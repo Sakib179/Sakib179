@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=250&section=header&text=Hi%20there,%20I'm%20Sakib!%20%F0%9F%91%8B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=250&section=header&text=Hi%20there,%20I'm%20Sakib!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%7C%20Backend%20Developer%20%7C%20AI%20Researcher&descAlignY=55&descAlign=62"/>
 
 <div align="center">
 
@@ -15,15 +15,23 @@
 
 <br/>
 
-### 🚀 About Me
+### 🚀 About Me & Engineering Philosophy
 
-I am a passionate **Software Engineer and Researcher** with a dual focus on **Scalable Backend Systems** and **AI/Machine Learning**. With an ongoing journey at BRAC University (CGPA 3.93/4.00) and experience as a Co-Founder, I bring raw technical execution together with solid product leadership.
+I am a **Software Engineer** specializing in **Scalable Backend Systems** and **Full-stack Architecture**, with a strong foundation in **Machine Learning**. I thrive in environments where performance, clean code, and business value intersect. Having driven production-level applications and founded a tech initiative, I bring an **ownership mindset** to every codebase I touch.
 
-* 🏢 **Co-Founder & Backend Developer** at [**Qoarq**](#) — Architecting server-side infrastructure and RESTful APIs.
-* 🧠 Deeply invested in AI Research — currently working on **Aviation Anomaly Detection using Transformers**.
-* ⚡ Master of building rich, interactive UI components with **Next.js & Framer Motion** and robust backends with **Node.js, Express, Postgres & Prisma**.
-* 🎓 Former Undergraduate Teaching Assistant for OOP (Java) and Advanced Physics.
-* 💬 Let's talk about **System Design*, **Deep Learning**, or **Startups**!
+* 🏛️ **Architecture & Scale**: Experienced in designing secure RESTful APIs, optimizing relational databases (PostgreSQL/Prisma), and planning robust systemic architectures.
+* 💻 **Product-Centric Execution**: As **Co-Founder & Backend Developer** at **Qoarq**, I prioritize shipping reliable, high-performance features that solve real user problems.
+* 🧠 **Analytical Problem Solver**: Leveraging an academic research background (AI/Transformers) and strong fundamentals (CGPA 3.93, BRAC University) to tackle complex logic and system bottlenecks.
+* 🌱 **Always open to discussing high-impact engineering roles, innovative system designs, and exciting new opportunities.**
+
+<br/>
+
+### 🎯 What I Bring to the Team
+
+- **End-to-End Ownership**: From database schema design to seamless UI API integrations.
+- **Production-Ready Backends**: Building robust infrastructure using Node.js, TypeScript, Express, Postgres, and Prisma.
+- **Performance & Security**: Familiar with implementing zero-knowledge architectures, encryption, and deep query optimizations.
+- **Collaboration & Mentorship**: Former Teaching Assistant for 400+ students, comfortable reviewing code and communicating complex technical paths clearly.
 
 <br/>
 
@@ -42,31 +50,6 @@ I am a passionate **Software Engineer and Researcher** with a dual focus on **Sc
     <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,tailwind,pytorch,git,github,vscode" />
   </a>
 </div>
-
-<br/>
-
-### 💡 Featured Work & Research
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💻 Engineering Projects</h3>
-      <ul>
-        <li><b><a href="https://github.com/Sakib179/SmartBalance">SmartBalance</a></b>: Full-stack dealership enterprise accounting & inventory system. (<i>Next.js, Prisma, PostgreSQL</i>)</li>
-        <li><b><a href="https://github.com/Sakib179/KingsCut">KingsCut</a></b>: Real-time grooming booking platform with loyalty rewards. (<i>Node, Express, React</i>)</li>
-        <li><b><a href="https://github.com/Sakib179/CipherNotes">CipherNotes</a></b>: Highly secure zero-knowledge note-taking app. (<i>AES-256, Node.js</i>)</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔬 AI/ML Research</h3>
-      <ul>
-        <li><b>Aviation Anomaly Detection (Thesis)</b>: Transformer-based multi-label classification achieving 6.08ms inference and F1 of 0.8815.</li>
-        <li><b>Retail Checkout Vision System</b>: Multi-stage pipeline using YOLOv11 & Deep Metric Learning for checkout automation.</li>
-        <li><b>Railway Track Fault Identification</b>: Advanced CNN ensemble hitting 99.54% accuracy in fault detection.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
