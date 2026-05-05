@@ -1,109 +1,98 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=250&section=header&text=Hi%20there,%20I'm%20Sakib!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%7C%20Backend%20Developer%20%7C%20AI%20Researcher&descAlignY=55&descAlign=62"/>
+
 <div align="center">
-  
-# 💫 Hi there, I'm Sakib! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy9/giphy.gif" width="30px">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Co-Founder+%26+Backend+Developer+%40+Qoarq;AI+%26+Machine+Learning+Researcher;Full-Stack+Engineer;Tech+Enthusiast+%26+Innovator" alt="Typing SVG" /></a>
-
-**`Node.js`** | **`TypeScript`** | **`Python / PyTorch`** | **`PostgreSQL`** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Co-Founder+%26+Backend+Developer+%40+Qoarq;AI+%26+Machine+Learning+Researcher;Full-Stack+Engineer;Tech+Enthusiast+%26+Innovator)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakib179&label=Profile%20views&color=00ADB5&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%7C_AI_Research-00ADB5?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-00ADB5?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Sakib179&label=Profile%20views&color=00ADB5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-00ADB5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
----
+> *"Engineering bold, high-impact software products that solve real problems at scale."*
 
-### 🚀 About Me
-I'm a passionate Software Engineer and Researcher blending **Full-Stack Development** with **AI & Machine Learning**. From architecting scalable backend systems for enterprise platforms to researching deep learning models for anomaly detection, I love building solutions that solve real-world problems.
-
-* 🏢 Currently **Co-Founder & Backend Developer** at [**Qoarq**](#).
-* 🔬 Conducting Research on **Aviation Anomaly Detection** using Transformers & Multi-Label Classification.
-* 🎓 BSc in Computer Science & Engineering (BRAC University, CGPA 3.93/4.00) & former Teaching Assistant.
-* 💡 Always up for a chat about System Design, Deep Learning, or cutting-edge tech!
-
-</div>
-
----
-
-### 💻 Tech Stack
-<div align="center">
-
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
-</div>
-
----
-
-### 💼 Professional Experience
-
-| Role | Organization | Duration | Description |
-| :--- | :--- | :--- | :--- |
-| **🚀 Co-Founder & Backend Dev** | **Qoarq** | *2026 - Present* | Architecting server-side infrastructure, leading RESTful API design, and driving system decisions for scalable software. |
-| **👨‍🏫 Undergraduate TA (CSE)** | **BRAC University** | *2025 - 2026* | Mentored 400+ students in Java & OOP, managed lab sessions, and graded coursework. |
-| **👨‍🏫 Undergraduate TA (MNS)** | **BRAC University** | *2025* | Taught advanced physics topics (Electromagnetism, Quantum Mechanics) to undergraduates. |
-
----
-
-### ⚙️ Featured Projects
-
-<details>
-  <summary><b>🔥 SmartBalance | Enterprise Accounting System</b></summary>
-  
-  > A full-stack business management system for inventory control, employee access management, and robust financial tracking. 
-  > 
-  > **Stack**: `Next.js` • `TypeScript` • `Express.js` • `PostgreSQL` • `Prisma`
-</details>
-
-<details>
-  <summary><b>✂️ KingsCut | Grooming Booking Platform</b></summary>
-  
-  > Real-time slot booking platform with concurrent conflict prevention, loyalty rewards, and review systems.
-  >
-  > **Stack**: `React` • `Node.js` • `Express.js` • `PostgreSQL`
-</details>
-
-<details>
-  <summary><b>🔒 CipherNotes | Secure Encryption App</b></summary>
-  
-  > Highly secure note-taking platform applying zero-knowledge architecture and client-side AES-256 encryption.
-  >
-  > **Stack**: `Node` • `React` • `PostgreSQL` • `AES-256` • `JWT`
-</details>
-
----
-
-### 🔬 Academic Research
-
-* **Aviation Anomaly Detection (Thesis)**: Developed a lightweight deep learning framework using novel Transformers *(CSPT & HiCST)* on raw flight sensor data directly. Reached anomaly F1 of `0.8815` & `6.08ms` CPU inference.
-* **Real-Time Retail Checkout Vision System**: High-precision multi-stage computer vision pipeline leveraging YOLOv11 and Deep Metric Learning for overlapping class detection. 
-* **Automated Railway Track Fault Identification**: Advanced CNN ensemble model achieving `99.54%` accuracy in detecting structural railway defaults.
-
----
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakib179&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakib179&theme=react&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib179&layout=compact&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
+
+### 🚀 About Me
+
+I am a passionate **Software Engineer and Researcher** with a dual focus on **Scalable Backend Systems** and **AI/Machine Learning**. With an ongoing journey at BRAC University (CGPA 3.93/4.00) and experience as a Co-Founder, I bring raw technical execution together with solid product leadership.
+
+* 🏢 **Co-Founder & Backend Developer** at [**Qoarq**](#) — Architecting server-side infrastructure and RESTful APIs.
+* 🧠 Deeply invested in AI Research — currently working on **Aviation Anomaly Detection using Transformers**.
+* ⚡ Master of building rich, interactive UI components with **Next.js & Framer Motion** and robust backends with **Node.js, Express, Postgres & Prisma**.
+* 🎓 Former Undergraduate Teaching Assistant for OOP (Java) and Advanced Physics.
+* 💬 Let's talk about **System Design*, **Deep Learning**, or **Startups**!
+
+<br/>
+
+### 🛠️ Tech Stack & Arsenal
+
 <div align="center">
-  <i>Let's build something awesome together! 🚀</i>
+  
+  **Languages & Frameworks**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs,express,nextjs,react" />
+  </a>
+
+  <br><br>
+  **Databases & Tools**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,tailwind,pytorch,git,github,vscode" />
+  </a>
 </div>
+
+<br/>
+
+### 💡 Featured Work & Research
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💻 Engineering Projects</h3>
+      <ul>
+        <li><b><a href="https://github.com/Sakib179/SmartBalance">SmartBalance</a></b>: Full-stack dealership enterprise accounting & inventory system. (<i>Next.js, Prisma, PostgreSQL</i>)</li>
+        <li><b><a href="https://github.com/Sakib179/KingsCut">KingsCut</a></b>: Real-time grooming booking platform with loyalty rewards. (<i>Node, Express, React</i>)</li>
+        <li><b><a href="https://github.com/Sakib179/CipherNotes">CipherNotes</a></b>: Highly secure zero-knowledge note-taking app. (<i>AES-256, Node.js</i>)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔬 AI/ML Research</h3>
+      <ul>
+        <li><b>Aviation Anomaly Detection (Thesis)</b>: Transformer-based multi-label classification achieving 6.08ms inference and F1 of 0.8815.</li>
+        <li><b>Retail Checkout Vision System</b>: Multi-stage pipeline using YOLOv11 & Deep Metric Learning for checkout automation.</li>
+        <li><b>Railway Track Fault Identification</b>: Advanced CNN ensemble hitting 99.54% accuracy in fault detection.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakib179&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&border_radius=10" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib179&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&border_radius=10" height="192px" alt="Top Languages" />
+  
+  <br/> <br/>
+  
+  <!-- GitHub Snake Animation (Needs GitHub Action setup on your repo to generate the SVG) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakib179/Sakib179/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakib179/Sakib179/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakib179/Sakib179/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:sakibsbx@gmail.com"><img src="https://img.shields.io/badge/Email-sakibsbx%40gmail.com-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+<p align="center">
+  <i>Let's build the future together! 🚀</i>
+</p>
