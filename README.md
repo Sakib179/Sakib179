@@ -1,28 +1,109 @@
-<h1 align="center">Hi 👋, I'm Sakib Rayhan Yeasin</h1>
-<h3 align="center">Passionate about building ML/AI Web Applications, solving real-world problems, and continuously learning new technologies.</h3>
+<div align="center">
+  
+# 💫 Hi there, I'm Sakib! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy9/giphy.gif" width="30px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib179" alt="sakib179" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Co-Founder+%26+Backend+Developer+%40+Qoarq;AI+%26+Machine+Learning+Researcher;Full-Stack+Engineer;Tech+Enthusiast+%26+Innovator" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **Advanced Computer Vision, Large Language Models (LLMs), Cloud Computing**
+**`Node.js`** | **`TypeScript`** | **`Python / PyTorch`** | **`PostgreSQL`** 
 
-- 👨‍💻 All of my projects are available at [_coming soon_](_coming soon_)
-
-- 📫 How to reach me **sakib179bd@gmail.com**
-
-- ⚡ Fun fact **I enjoy solving algorithmic problems, Love exploring new tech and travelling new places.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/sakib179bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sakib179bd" height="30" width="40" /></a>
-<a href="https://kaggle.com/iamsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamsakib" height="30" width="40" /></a>
-<a href="https://fb.com/sakib rayhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakib rayhan" height="30" width="40" /></a>
-<a href="https://instagram.com/sakib_rayhan.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakib_rayhan.17" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/706073723538767934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/706073723538767934" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakib179&label=Profile%20views&color=00ADB5&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%7C_AI_Research-00ADB5?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-00ADB5?style=flat-square" alt="Location" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib179&show_icons=true&locale=en&layout=compact" alt="sakib179" /></p>
+### 🚀 About Me
+I'm a passionate Software Engineer and Researcher blending **Full-Stack Development** with **AI & Machine Learning**. From architecting scalable backend systems for enterprise platforms to researching deep learning models for anomaly detection, I love building solutions that solve real-world problems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib179&show_icons=true&locale=en" alt="sakib179" /></p>
+* 🏢 Currently **Co-Founder & Backend Developer** at [**Qoarq**](#).
+* 🔬 Conducting Research on **Aviation Anomaly Detection** using Transformers & Multi-Label Classification.
+* 🎓 BSc in Computer Science & Engineering (BRAC University, CGPA 3.93/4.00) & former Teaching Assistant.
+* 💡 Always up for a chat about System Design, Deep Learning, or cutting-edge tech!
+
+</div>
+
+---
+
+### 💻 Tech Stack
+<div align="center">
+
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+
+</div>
+
+---
+
+### 💼 Professional Experience
+
+| Role | Organization | Duration | Description |
+| :--- | :--- | :--- | :--- |
+| **🚀 Co-Founder & Backend Dev** | **Qoarq** | *2026 - Present* | Architecting server-side infrastructure, leading RESTful API design, and driving system decisions for scalable software. |
+| **👨‍🏫 Undergraduate TA (CSE)** | **BRAC University** | *2025 - 2026* | Mentored 400+ students in Java & OOP, managed lab sessions, and graded coursework. |
+| **👨‍🏫 Undergraduate TA (MNS)** | **BRAC University** | *2025* | Taught advanced physics topics (Electromagnetism, Quantum Mechanics) to undergraduates. |
+
+---
+
+### ⚙️ Featured Projects
+
+<details>
+  <summary><b>🔥 SmartBalance | Enterprise Accounting System</b></summary>
+  
+  > A full-stack business management system for inventory control, employee access management, and robust financial tracking. 
+  > 
+  > **Stack**: `Next.js` • `TypeScript` • `Express.js` • `PostgreSQL` • `Prisma`
+</details>
+
+<details>
+  <summary><b>✂️ KingsCut | Grooming Booking Platform</b></summary>
+  
+  > Real-time slot booking platform with concurrent conflict prevention, loyalty rewards, and review systems.
+  >
+  > **Stack**: `React` • `Node.js` • `Express.js` • `PostgreSQL`
+</details>
+
+<details>
+  <summary><b>🔒 CipherNotes | Secure Encryption App</b></summary>
+  
+  > Highly secure note-taking platform applying zero-knowledge architecture and client-side AES-256 encryption.
+  >
+  > **Stack**: `Node` • `React` • `PostgreSQL` • `AES-256` • `JWT`
+</details>
+
+---
+
+### 🔬 Academic Research
+
+* **Aviation Anomaly Detection (Thesis)**: Developed a lightweight deep learning framework using novel Transformers *(CSPT & HiCST)* on raw flight sensor data directly. Reached anomaly F1 of `0.8815` & `6.08ms` CPU inference.
+* **Real-Time Retail Checkout Vision System**: High-precision multi-stage computer vision pipeline leveraging YOLOv11 and Deep Metric Learning for overlapping class detection. 
+* **Automated Railway Track Fault Identification**: Advanced CNN ensemble model achieving `99.54%` accuracy in detecting structural railway defaults.
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakib179&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakib179&theme=react&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib179&layout=compact&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
+</div>
+
+<br/>
+<div align="center">
+  <i>Let's build something awesome together! 🚀</i>
+</div>
