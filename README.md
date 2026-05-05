@@ -72,7 +72,7 @@ I am a **Software Engineer** specializing in **Scalable Backend Systems** and **
 <br/>
 
 <div align="center">
-  <a href="mailto:sakibsbx@gmail.com"><img src="https://img.shields.io/badge/Email-sakibsbx%40gmail.com-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sakibry.contact@gmail.com"><img src="https://img.shields.io/badge/Email-sakibry.contact%40gmail.com-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
