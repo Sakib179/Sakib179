@@ -21,7 +21,7 @@ I am a **Software Engineer** specializing in **Scalable Backend Systems** and **
 
 * 🏛️ **Architecture & Scale**: Experienced in designing secure RESTful APIs, optimizing relational databases (PostgreSQL/Prisma), and planning robust systemic architectures.
 * 💻 **Product-Centric Execution**: As **Co-Founder & Backend Developer** at **Qoarq**, I prioritize shipping reliable, high-performance features that solve real user problems.
-* 🧠 **Analytical Problem Solver**: Leveraging an academic research background (AI/Transformers) and strong fundamentals (CGPA 3.93, BRAC University) to tackle complex logic and system bottlenecks.
+* 🧠 **Analytical Problem Solver**: Leveraging an academic research background (AI/Transformers) and strong fundamentals to tackle complex logic and system bottlenecks.
 * 🌱 **Always open to discussing high-impact engineering roles, innovative system designs, and exciting new opportunities.**
 
 <br/>
