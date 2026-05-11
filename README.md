@@ -53,23 +53,6 @@ I am a **Software Engineer** specializing in **Scalable Backend Systems** and **
 
 <br/>
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakib179&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&border_radius=10" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib179&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&border_radius=10" height="192px" alt="Top Languages" />
-  
-  <br/> <br/>
-  
-  <!-- GitHub Snake Animation (Needs GitHub Action setup on your repo to generate the SVG) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakib179/Sakib179/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakib179/Sakib179/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakib179/Sakib179/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <a href="mailto:sakibry.contact@gmail.com"><img src="https://img.shields.io/badge/Email-sakibry.contact%40gmail.com-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
